@@ -1,0 +1,14 @@
+body{
+    background-color: lightslategrey;
+    text-align: center;
+    font-size: 40px;
+}
+#listOne{
+    display: none;
+}
+#listTwo{
+    display: none;
+}
+a{
+    display: none;
+}
